@@ -77,10 +77,16 @@ def record_audio(duration=5, fs=16000):
 
 
 def transcribe(file_path):
-    segments, _ = whisper_model.transcribe(file_path)
+    segments, _ = whisper_model.transcribe(
+        file_path,
+        language="en",
+        task="transcribe",
+        beam_size=5,
+        best_of=5,
+        temperature=0.0
+    )
 
     text = " ".join([seg.text for seg in segments])
-
     return text.strip()
 
 # ======================
