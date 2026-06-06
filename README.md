@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 快速运行
-
+、、、
 git clone https://github.com/WWZhhhhh888/qiniu-ai-english-tutor.git
 cd qiniu-ai-english-tutor
 pip install -r requirements.txt
@@ -29,7 +29,7 @@ echo "DEEPSEEK_API_KEY=你的密钥" > .env
 streamlit run app.py
 
 > 首次语音识别会加载模型（约10秒），之后无需等待
-
+、、、
 ---
 
 ## 🧪 测试示例
