@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 快速运行
-、、、
+、、、bash
 git clone https://github.com/WWZhhhhh888/qiniu-ai-english-tutor.git
 cd qiniu-ai-english-tutor
 pip install -r requirements.txt
