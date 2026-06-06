@@ -4,13 +4,6 @@
 
 ---
 
-```markdown
-# 🗣️ AI英语口语陪练（七牛云实训营最终版）
-
-> 语音 + 文字 · 场景对话 · 实时纠错 · 三维评分 · 学习趋势 · 错误排行榜 · 学习报告
-
----
-
 ## ✅ 实训营要求完成情况
 
 | 要求 | 实现 |
@@ -35,7 +28,6 @@ cd qiniu-ai-english-tutor
 pip install -r requirements.txt
 echo "DEEPSEEK_API_KEY=你的密钥" > .env
 streamlit run app.py
-```
 
 > 首次语音识别会加载模型（约10秒），之后无需等待
 
