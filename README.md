@@ -28,6 +28,7 @@ pip install -r requirements.txt
 echo "DEEPSEEK_API_KEY=你的密钥" > .env
 streamlit run app.py
 ---
+```
 
 ## 🧪 测试示例
 
