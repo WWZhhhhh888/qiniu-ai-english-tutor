@@ -22,7 +22,6 @@
 
 ## 🚀 快速运行
 
-```bash
 git clone https://github.com/WWZhhhhh888/qiniu-ai-english-tutor.git
 cd qiniu-ai-english-tutor
 pip install -r requirements.txt
@@ -76,7 +75,4 @@ streamlit run app.py
 ## 📎 实训营提交
 
 - 仓库：https://github.com/WWZhhhhh888/qiniu-ai-english-tutor
-- 视频：见链接
-```
-
----
+- 视频：
