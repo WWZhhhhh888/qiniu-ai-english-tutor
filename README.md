@@ -74,4 +74,4 @@ streamlit run app.py
 ## 📎 实训营提交
 
 - 仓库：https://github.com/WWZhhhhh888/qiniu-ai-english-tutor
-- 视频：
+- 视频：https://www.bilibili.com/video/BV1kc7D6xEog/?share_source=copy_web&vd_source=5c31878c307babf4001a59df0bad1037
