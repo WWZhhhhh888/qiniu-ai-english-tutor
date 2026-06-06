@@ -1,3 +1,4 @@
+[![演示视频](https://img.shields.io/badge/🎬-观看演示视频-FF0000?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1kc7D6xEog/)
 # 🗣️ AI英语口语陪练（最终版）
 
 > 语音 + 文字 · 场景对话 · 实时纠错 · 三维评分 · 学习趋势 · 错误排行榜 · 学习报告
